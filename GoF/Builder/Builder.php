@@ -74,7 +74,7 @@ class Director
 
     public static function audi(CarBuilder $builder)
     {
-        $builder->setColor('红')->setBrand('宝马')->setPrice('50万');
+        $builder->setColor('黑')->setBrand('奥迪')->setPrice('80万');
     }
 }
 
